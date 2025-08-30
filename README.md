@@ -3,7 +3,7 @@
 This project analyzes and predicts the spread of Covid-19 using global time series data. It includes data cleaning, transformation, and visualization steps in Python.
 
 ## Project Structure
-- `covid-19_analysis_prediction.ipynb`: Main Jupyter notebook for analysis and prediction
+- `Covid-19 Analysis & Prediction.ipynb` / `covid-19_analysis_prediction.ipynb`: Main Jupyter notebook for analysis and prediction
 - `time_series_covid19_confirmed_global.csv`: Confirmed cases data
 - `time_series_covid19_deaths_global.csv`: Deaths data
 - `time_series_covid19_recovered_global.csv`: Recovered cases data
